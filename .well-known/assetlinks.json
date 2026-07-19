@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "tech.zakariaguediayeh.mesfinances",
-    "sha256_cert_fingerprints": ["24:61:53:81:11:38:AE:62:94:B1:8F:94:BC:DD:3C:29:0E:58:DD:01:A5:9D:99:8F:CF:1B:61:D6:DD:F7:E8:F4"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.zakariaguediayeh_tech.twa",
+        "sha256_cert_fingerprints": ["CC:1B:55:63:62:D4:A8:93:7A:51:0C:93:11:F7:73:7A:6F:C4:BF:FD:5C:8C:25:5D:B0:D0:28:DA:6D:01:BB:C5"]
+      }
+    }]
